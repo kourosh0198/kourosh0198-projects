@@ -1,5 +1,5 @@
 <h1>My projects.<h1>
-<p>Timer project is for revers count.</p>
+<h5>Timer project is for reverse count.</h5>
 <h6>
 kourosh0198
 </h6>
